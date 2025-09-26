@@ -1,1 +1,4 @@
-
+Select *
+from
+SAM_SCF.Mining.DtlBirthLogL3Y
+;
